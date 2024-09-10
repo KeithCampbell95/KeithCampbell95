@@ -5,7 +5,7 @@
   - [Created SIEM In Microstoft Asure W/ live attack map](https://github.com/joshmadakor1/Algorithms-Practice)
 
 
-<h2>📺 VCertifications:</h2>
+<h2> Certifications:</h2>
 
 - [CompTIA Network+](https://www.youtube.com/watch?v=a83ASGn_V_s)
 - [CompTIA A+](https://www.youtube.com/watch?v=a83ASGn_V_s)
